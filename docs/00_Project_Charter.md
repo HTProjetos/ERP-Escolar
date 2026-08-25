@@ -10,7 +10,7 @@
 
 O ERP Gestão Escolar é uma plataforma modular destinada à gestão operacional de estabelecimentos de ensino.
 
-O sistema será desenvolvido com uma arquitetura moderna baseada em Supabase, PostgreSQL e PWAs, recorrendo ao Hercules para a construção da interface gráfica.
+O sistema será desenvolvido com uma arquitetura moderna baseada em Supabase, PostgreSQL e PWAs, recorrendo ao Bolt.new para a construção da interface gráfica.
 
 O objetivo é criar uma solução robusta, escalável e preparada para utilização em qualquer escola portuguesa.
 
@@ -38,7 +38,7 @@ O objetivo é criar uma solução robusta, escalável e preparada para utilizaç
 
 ## Frontend
 
-- Hercules
+- Bolt.new
 - Progressive Web Apps (PWA)
 
 ## Gestão do Projeto
